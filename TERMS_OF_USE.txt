@@ -1,0 +1,33 @@
+利用規約 / Terms of Use
+
+本ソフトウェア（以下「本ツール」）はなひなのぉが著作権を保持しています。
+
+The copyright of this software (hereinafter referred to as "the Tool") is held by Nahinano.
+---
+
+日本語版：
+
+- 本ツールは個人利用および非商用目的での利用を許可します。
+- ユーザーは自身の環境において、本ツールの内容を改変・カスタマイズすることができます。
+- 改変の有無にかかわらず、本ツールの**再配布・公開（例：GitHub・SNS・ブログなど）**は許可されています。
+- ただし、本ツールおよびその派生物の**販売・再販売は一切禁止**されています。
+- 商用利用（営利目的での使用）は禁止されています。
+- 本ツールの使用により生じたいかなる損害についても、著作者は責任を負いません。
+- 本ツールを使用した時点で、これらの条件に同意したものとみなされます。
+
+---
+
+English Version:
+
+- This Tool is permitted for use in **personal and non-commercial contexts**.
+- Users are allowed to modify or customize the Tool for use in their **own environment**.
+- Redistribution and public publication (e.g. via GitHub, SNS, blogs, etc.) are **explicitly allowed**, with or without modification.
+- However, **resale or commercial distribution of this Tool or its derivatives is strictly prohibited**.
+- Commercial use (use for profit) is not permitted.
+- The author is not responsible for any damage or loss resulting from the use of this Tool.
+- By using this Tool, you are deemed to have agreed to these terms.
+
+---
+
+© 2025 Nahinano. All rights reserved.
+
