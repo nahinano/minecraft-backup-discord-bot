@@ -1,2 +1,0 @@
-# minecraft-backup-discord-bot
-minecraftのサーバーをdiscordのbotのコマンド通じてバックアップができるdiscord bot
